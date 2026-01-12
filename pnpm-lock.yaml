@@ -17,6 +17,9 @@ importers:
       emoji-name-map:
         specifier: ^2.0.3
         version: 2.0.3
+      express:
+        specifier: ^5.2.1
+        version: 5.2.1
       github-username-regex:
         specifier: ^1.0.0
         version: 1.0.0
@@ -60,9 +63,6 @@ importers:
       eslint-plugin-jsdoc:
         specifier: ^61.7.1
         version: 61.7.1(eslint@9.39.2)
-      express:
-        specifier: ^5.2.1
-        version: 5.2.1
       globals:
         specifier: ^16.5.0
         version: 16.5.0
